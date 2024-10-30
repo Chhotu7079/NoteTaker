@@ -4,6 +4,8 @@
 
 Key Highlights: 
 📌 Full-Stack Architecture – A cohesive system integrating front-end and back-end seamlessly. 
+
 📌 REST API – Enables efficient communication for note creation and retrieval. 
+
 📌 Hibernate ORM – Simplifies database interactions, making data handling intuitive and robust.
 
